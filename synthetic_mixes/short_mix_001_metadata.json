@@ -1,0 +1,42 @@
+{
+  "mix_name": "short_mix_001",
+  "num_tracks": 3,
+  "tracks": [
+    {
+      "name": "Helado Negro - Mitad Del Mundo",
+      "index": 34
+    },
+    {
+      "name": "Chris Durban - Celebrate",
+      "index": 18
+    },
+    {
+      "name": "Music Delta - 80s Rock",
+      "index": 54
+    }
+  ],
+  "transitions": [
+    {
+      "track1_duration": 3.4017233560090703,
+      "transition_start": 3.4017233560090703,
+      "transition_end": 6.8034467120181406,
+      "track2_start": 6.8034467120181406,
+      "total_duration": 10.537052154195012,
+      "tempo1": 120.18531976744185,
+      "tempo2": 126.04801829268293,
+      "stretch_factor": 0.9534883720930232,
+      "crossfade_beats": 16
+    },
+    {
+      "track1_duration": 2.2639455782312927,
+      "transition_start": 2.2639455782312927,
+      "transition_end": 8.358707482993196,
+      "track2_start": 8.358707482993196,
+      "total_duration": 8.358707482993196,
+      "tempo1": 120.18531976744185,
+      "tempo2": 107.666015625,
+      "stretch_factor": 1.1162790697674418,
+      "crossfade_beats": 16
+    }
+  ]
+}

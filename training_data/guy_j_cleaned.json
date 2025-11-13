@@ -1,0 +1,642 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=jJZKoJv33Hs",
+  "dj_name": "Guy J",
+  "set_name": "Lost & Found",
+  "num_tracks": 40,
+  "tracks": [
+    {
+      "track_number": 0,
+      "timestamp_seconds": 0,
+      "timestamp_str": "0:00:00",
+      "title": "Guy J - Forja 2022 Intro ID"
+    },
+    {
+      "track_number": 2,
+      "timestamp_seconds": 281,
+      "timestamp_str": "0:04:41",
+      "title": "Cornucopia - TithoreaID"
+    },
+    {
+      "track_number": 3,
+      "timestamp_seconds": 674,
+      "timestamp_str": "0:11:14",
+      "title": "Cornucopia - Other Side of the World [unreleased]"
+    },
+    {
+      "track_number": 4,
+      "timestamp_seconds": 1093,
+      "timestamp_str": "0:18:13",
+      "title": "Frankey & Sandrino - Acamar (Guy J Remix)"
+    },
+    {
+      "track_number": 5,
+      "timestamp_seconds": 1506,
+      "timestamp_str": "0:25:06",
+      "title": "Guy J - Another Feeling [unreleased]"
+    },
+    {
+      "track_number": 6,
+      "timestamp_seconds": 1853,
+      "timestamp_str": "0:30:53",
+      "title": "Guy J - Eternal Now ID"
+    },
+    {
+      "track_number": 7,
+      "timestamp_seconds": 2175,
+      "timestamp_str": "0:36:15",
+      "title": "Frankey & Sandrino - Epsilon ID"
+    },
+    {
+      "track_number": 8,
+      "timestamp_seconds": 2519,
+      "timestamp_str": "0:41:59",
+      "title": "Guy J - Departure 2022"
+    },
+    {
+      "track_number": 9,
+      "timestamp_seconds": 2848,
+      "timestamp_str": "0:47:28",
+      "title": "Guy J - Lamur (Robert Babicz Remix)"
+    },
+    {
+      "track_number": 10,
+      "timestamp_seconds": 3221,
+      "timestamp_str": "0:53:41",
+      "title": "Guy J - Moog and the City"
+    },
+    {
+      "track_number": 11,
+      "timestamp_seconds": 3542,
+      "timestamp_str": "0:59:02",
+      "title": "Max Cooper feat. Kathrin deBoer - Aleph 2 (Guy J Remix)"
+    },
+    {
+      "track_number": 12,
+      "timestamp_seconds": 3931,
+      "timestamp_str": "1:05:31",
+      "title": "Guy J - Sunny Tales"
+    },
+    {
+      "track_number": 13,
+      "timestamp_seconds": 4282,
+      "timestamp_str": "1:11:22",
+      "title": "Guy J - Night Drive ID"
+    },
+    {
+      "track_number": 14,
+      "timestamp_seconds": 4586,
+      "timestamp_str": "1:16:26",
+      "title": "Julian Wassermann - Hades"
+    },
+    {
+      "track_number": 15,
+      "timestamp_seconds": 4918,
+      "timestamp_str": "1:21:58",
+      "title": "Guy J - Voyage"
+    },
+    {
+      "track_number": 16,
+      "timestamp_seconds": 5285,
+      "timestamp_str": "1:28:05",
+      "title": "Marino Canal - Meraviglia"
+    },
+    {
+      "track_number": 17,
+      "timestamp_seconds": 5603,
+      "timestamp_str": "1:33:23",
+      "title": "Guy J - Palms ID"
+    },
+    {
+      "track_number": 18,
+      "timestamp_seconds": 5892,
+      "timestamp_str": "1:38:12",
+      "title": "Hernan Cattaneo & Soundexile - Into the Dusk"
+    },
+    {
+      "track_number": 19,
+      "timestamp_seconds": 6239,
+      "timestamp_str": "1:43:59",
+      "title": "Guy J - Lamur (Be Svendsen Remix)"
+    },
+    {
+      "track_number": 20,
+      "timestamp_seconds": 6603,
+      "timestamp_str": "1:50:03",
+      "title": "8kays - Indigo"
+    },
+    {
+      "track_number": 21,
+      "timestamp_seconds": 6950,
+      "timestamp_str": "1:55:50",
+      "title": "Barry Jamieson - Seneca Falls"
+    },
+    {
+      "track_number": 22,
+      "timestamp_seconds": 7275,
+      "timestamp_str": "2:01:15",
+      "title": "&ME - White Coats ID"
+    },
+    {
+      "track_number": 23,
+      "timestamp_seconds": 7600,
+      "timestamp_str": "2:06:40",
+      "title": "Guy J & Davi - Make You Better"
+    },
+    {
+      "track_number": 24,
+      "timestamp_seconds": 7945,
+      "timestamp_str": "2:12:25",
+      "title": "Stylo - Departure ID"
+    },
+    {
+      "track_number": 25,
+      "timestamp_seconds": 8279,
+      "timestamp_str": "2:17:59",
+      "title": "Guy J - I know It"
+    },
+    {
+      "track_number": 26,
+      "timestamp_seconds": 8615,
+      "timestamp_str": "2:23:35",
+      "title": "Tim Engelhardt - Trust"
+    },
+    {
+      "track_number": 27,
+      "timestamp_seconds": 8931,
+      "timestamp_str": "2:28:51",
+      "title": "Guy J - Seemless"
+    },
+    {
+      "track_number": 28,
+      "timestamp_seconds": 9282,
+      "timestamp_str": "2:34:42",
+      "title": "Victor Ruiz - Simile"
+    },
+    {
+      "track_number": 29,
+      "timestamp_seconds": 9670,
+      "timestamp_str": "2:41:10",
+      "title": "Tale Of Us - Ricordi"
+    },
+    {
+      "track_number": 30,
+      "timestamp_seconds": 10032,
+      "timestamp_str": "2:47:12",
+      "title": "Guy J - Orion 2022 ID"
+    },
+    {
+      "track_number": 31,
+      "timestamp_seconds": 10359,
+      "timestamp_str": "2:52:39",
+      "title": "Nick Warren & Nicolas Rada - Nostalgic"
+    },
+    {
+      "track_number": 32,
+      "timestamp_seconds": 10749,
+      "timestamp_str": "2:59:09",
+      "title": "Guy J - Aurora"
+    },
+    {
+      "track_number": 33,
+      "timestamp_seconds": 11195,
+      "timestamp_str": "3:06:35",
+      "title": "Worakls - Salzburg (Guy J Remix)"
+    },
+    {
+      "track_number": 34,
+      "timestamp_seconds": 11552,
+      "timestamp_str": "3:12:32",
+      "title": "Guy J - Her (Henrik Schwarz Remix)"
+    },
+    {
+      "track_number": 35,
+      "timestamp_seconds": 11893,
+      "timestamp_str": "3:18:13",
+      "title": "Guy J - Shiny Light Purple"
+    },
+    {
+      "track_number": 36,
+      "timestamp_seconds": 12261,
+      "timestamp_str": "3:24:21",
+      "title": "Ordonez - Bagatelle"
+    },
+    {
+      "track_number": 37,
+      "timestamp_seconds": 12533,
+      "timestamp_str": "3:28:53",
+      "title": "Tom Day - Who We Want To Be"
+    },
+    {
+      "track_number": 38,
+      "timestamp_seconds": 12865,
+      "timestamp_str": "3:34:25",
+      "title": "Guy J - Lamur (Henry Saiz Remix) ID"
+    },
+    {
+      "track_number": 39,
+      "timestamp_seconds": 13240,
+      "timestamp_str": "3:40:40",
+      "title": "Guy J - Nymphaea"
+    },
+    {
+      "track_number": 40,
+      "timestamp_seconds": 13625,
+      "timestamp_str": "3:47:05",
+      "title": "Guy J - I Tell You ID (edited) (full version on next podcast)"
+    }
+  ],
+  "transitions": [
+    {
+      "from_track": 0,
+      "to_track": 2,
+      "from_title": "Guy J - Forja 2022 Intro ID",
+      "to_title": "Cornucopia - TithoreaID",
+      "transition_start_seconds": 251,
+      "transition_end_seconds": 311,
+      "transition_midpoint": 281,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 2,
+      "to_track": 3,
+      "from_title": "Cornucopia - TithoreaID",
+      "to_title": "Cornucopia - Other Side of the World [unreleased]",
+      "transition_start_seconds": 644,
+      "transition_end_seconds": 704,
+      "transition_midpoint": 674,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 3,
+      "to_track": 4,
+      "from_title": "Cornucopia - Other Side of the World [unreleased]",
+      "to_title": "Frankey & Sandrino - Acamar (Guy J Remix)",
+      "transition_start_seconds": 1063,
+      "transition_end_seconds": 1123,
+      "transition_midpoint": 1093,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 4,
+      "to_track": 5,
+      "from_title": "Frankey & Sandrino - Acamar (Guy J Remix)",
+      "to_title": "Guy J - Another Feeling [unreleased]",
+      "transition_start_seconds": 1476,
+      "transition_end_seconds": 1536,
+      "transition_midpoint": 1506,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 5,
+      "to_track": 6,
+      "from_title": "Guy J - Another Feeling [unreleased]",
+      "to_title": "Guy J - Eternal Now ID",
+      "transition_start_seconds": 1823,
+      "transition_end_seconds": 1883,
+      "transition_midpoint": 1853,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 6,
+      "to_track": 7,
+      "from_title": "Guy J - Eternal Now ID",
+      "to_title": "Frankey & Sandrino - Epsilon ID",
+      "transition_start_seconds": 2145,
+      "transition_end_seconds": 2205,
+      "transition_midpoint": 2175,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 7,
+      "to_track": 8,
+      "from_title": "Frankey & Sandrino - Epsilon ID",
+      "to_title": "Guy J - Departure 2022",
+      "transition_start_seconds": 2489,
+      "transition_end_seconds": 2549,
+      "transition_midpoint": 2519,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 8,
+      "to_track": 9,
+      "from_title": "Guy J - Departure 2022",
+      "to_title": "Guy J - Lamur (Robert Babicz Remix)",
+      "transition_start_seconds": 2818,
+      "transition_end_seconds": 2878,
+      "transition_midpoint": 2848,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 9,
+      "to_track": 10,
+      "from_title": "Guy J - Lamur (Robert Babicz Remix)",
+      "to_title": "Guy J - Moog and the City",
+      "transition_start_seconds": 3191,
+      "transition_end_seconds": 3251,
+      "transition_midpoint": 3221,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 10,
+      "to_track": 11,
+      "from_title": "Guy J - Moog and the City",
+      "to_title": "Max Cooper feat. Kathrin deBoer - Aleph 2 (Guy J Remix)",
+      "transition_start_seconds": 3512,
+      "transition_end_seconds": 3572,
+      "transition_midpoint": 3542,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 11,
+      "to_track": 12,
+      "from_title": "Max Cooper feat. Kathrin deBoer - Aleph 2 (Guy J Remix)",
+      "to_title": "Guy J - Sunny Tales",
+      "transition_start_seconds": 3901,
+      "transition_end_seconds": 3961,
+      "transition_midpoint": 3931,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 12,
+      "to_track": 13,
+      "from_title": "Guy J - Sunny Tales",
+      "to_title": "Guy J - Night Drive ID",
+      "transition_start_seconds": 4252,
+      "transition_end_seconds": 4312,
+      "transition_midpoint": 4282,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 13,
+      "to_track": 14,
+      "from_title": "Guy J - Night Drive ID",
+      "to_title": "Julian Wassermann - Hades",
+      "transition_start_seconds": 4556,
+      "transition_end_seconds": 4616,
+      "transition_midpoint": 4586,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 14,
+      "to_track": 15,
+      "from_title": "Julian Wassermann - Hades",
+      "to_title": "Guy J - Voyage",
+      "transition_start_seconds": 4888,
+      "transition_end_seconds": 4948,
+      "transition_midpoint": 4918,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 15,
+      "to_track": 16,
+      "from_title": "Guy J - Voyage",
+      "to_title": "Marino Canal - Meraviglia",
+      "transition_start_seconds": 5255,
+      "transition_end_seconds": 5315,
+      "transition_midpoint": 5285,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 16,
+      "to_track": 17,
+      "from_title": "Marino Canal - Meraviglia",
+      "to_title": "Guy J - Palms ID",
+      "transition_start_seconds": 5573,
+      "transition_end_seconds": 5633,
+      "transition_midpoint": 5603,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 17,
+      "to_track": 18,
+      "from_title": "Guy J - Palms ID",
+      "to_title": "Hernan Cattaneo & Soundexile - Into the Dusk",
+      "transition_start_seconds": 5862,
+      "transition_end_seconds": 5922,
+      "transition_midpoint": 5892,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 18,
+      "to_track": 19,
+      "from_title": "Hernan Cattaneo & Soundexile - Into the Dusk",
+      "to_title": "Guy J - Lamur (Be Svendsen Remix)",
+      "transition_start_seconds": 6209,
+      "transition_end_seconds": 6269,
+      "transition_midpoint": 6239,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 19,
+      "to_track": 20,
+      "from_title": "Guy J - Lamur (Be Svendsen Remix)",
+      "to_title": "8kays - Indigo",
+      "transition_start_seconds": 6573,
+      "transition_end_seconds": 6633,
+      "transition_midpoint": 6603,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 20,
+      "to_track": 21,
+      "from_title": "8kays - Indigo",
+      "to_title": "Barry Jamieson - Seneca Falls",
+      "transition_start_seconds": 6920,
+      "transition_end_seconds": 6980,
+      "transition_midpoint": 6950,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 21,
+      "to_track": 22,
+      "from_title": "Barry Jamieson - Seneca Falls",
+      "to_title": "&ME - White Coats ID",
+      "transition_start_seconds": 7245,
+      "transition_end_seconds": 7305,
+      "transition_midpoint": 7275,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 22,
+      "to_track": 23,
+      "from_title": "&ME - White Coats ID",
+      "to_title": "Guy J & Davi - Make You Better",
+      "transition_start_seconds": 7570,
+      "transition_end_seconds": 7630,
+      "transition_midpoint": 7600,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 23,
+      "to_track": 24,
+      "from_title": "Guy J & Davi - Make You Better",
+      "to_title": "Stylo - Departure ID",
+      "transition_start_seconds": 7915,
+      "transition_end_seconds": 7975,
+      "transition_midpoint": 7945,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 24,
+      "to_track": 25,
+      "from_title": "Stylo - Departure ID",
+      "to_title": "Guy J - I know It",
+      "transition_start_seconds": 8249,
+      "transition_end_seconds": 8309,
+      "transition_midpoint": 8279,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 25,
+      "to_track": 26,
+      "from_title": "Guy J - I know It",
+      "to_title": "Tim Engelhardt - Trust",
+      "transition_start_seconds": 8585,
+      "transition_end_seconds": 8645,
+      "transition_midpoint": 8615,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 26,
+      "to_track": 27,
+      "from_title": "Tim Engelhardt - Trust",
+      "to_title": "Guy J - Seemless",
+      "transition_start_seconds": 8901,
+      "transition_end_seconds": 8961,
+      "transition_midpoint": 8931,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 27,
+      "to_track": 28,
+      "from_title": "Guy J - Seemless",
+      "to_title": "Victor Ruiz - Simile",
+      "transition_start_seconds": 9252,
+      "transition_end_seconds": 9312,
+      "transition_midpoint": 9282,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 28,
+      "to_track": 29,
+      "from_title": "Victor Ruiz - Simile",
+      "to_title": "Tale Of Us - Ricordi",
+      "transition_start_seconds": 9640,
+      "transition_end_seconds": 9700,
+      "transition_midpoint": 9670,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 29,
+      "to_track": 30,
+      "from_title": "Tale Of Us - Ricordi",
+      "to_title": "Guy J - Orion 2022 ID",
+      "transition_start_seconds": 10002,
+      "transition_end_seconds": 10062,
+      "transition_midpoint": 10032,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 30,
+      "to_track": 31,
+      "from_title": "Guy J - Orion 2022 ID",
+      "to_title": "Nick Warren & Nicolas Rada - Nostalgic",
+      "transition_start_seconds": 10329,
+      "transition_end_seconds": 10389,
+      "transition_midpoint": 10359,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 31,
+      "to_track": 32,
+      "from_title": "Nick Warren & Nicolas Rada - Nostalgic",
+      "to_title": "Guy J - Aurora",
+      "transition_start_seconds": 10719,
+      "transition_end_seconds": 10779,
+      "transition_midpoint": 10749,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 32,
+      "to_track": 33,
+      "from_title": "Guy J - Aurora",
+      "to_title": "Worakls - Salzburg (Guy J Remix)",
+      "transition_start_seconds": 11165,
+      "transition_end_seconds": 11225,
+      "transition_midpoint": 11195,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 33,
+      "to_track": 34,
+      "from_title": "Worakls - Salzburg (Guy J Remix)",
+      "to_title": "Guy J - Her (Henrik Schwarz Remix)",
+      "transition_start_seconds": 11522,
+      "transition_end_seconds": 11582,
+      "transition_midpoint": 11552,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 34,
+      "to_track": 35,
+      "from_title": "Guy J - Her (Henrik Schwarz Remix)",
+      "to_title": "Guy J - Shiny Light Purple",
+      "transition_start_seconds": 11863,
+      "transition_end_seconds": 11923,
+      "transition_midpoint": 11893,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 35,
+      "to_track": 36,
+      "from_title": "Guy J - Shiny Light Purple",
+      "to_title": "Ordonez - Bagatelle",
+      "transition_start_seconds": 12231,
+      "transition_end_seconds": 12291,
+      "transition_midpoint": 12261,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 36,
+      "to_track": 37,
+      "from_title": "Ordonez - Bagatelle",
+      "to_title": "Tom Day - Who We Want To Be",
+      "transition_start_seconds": 12503,
+      "transition_end_seconds": 12563,
+      "transition_midpoint": 12533,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 37,
+      "to_track": 38,
+      "from_title": "Tom Day - Who We Want To Be",
+      "to_title": "Guy J - Lamur (Henry Saiz Remix) ID",
+      "transition_start_seconds": 12835,
+      "transition_end_seconds": 12895,
+      "transition_midpoint": 12865,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 38,
+      "to_track": 39,
+      "from_title": "Guy J - Lamur (Henry Saiz Remix) ID",
+      "to_title": "Guy J - Nymphaea",
+      "transition_start_seconds": 13210,
+      "transition_end_seconds": 13270,
+      "transition_midpoint": 13240,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 39,
+      "to_track": 40,
+      "from_title": "Guy J - Nymphaea",
+      "to_title": "Guy J - I Tell You ID (edited) (full version on next podcast)",
+      "transition_start_seconds": 13595,
+      "transition_end_seconds": 13655,
+      "transition_midpoint": 13625,
+      "transition_duration": 60
+    }
+  ],
+  "num_transitions": 39,
+  "audio_file": "training_audio/guy_j_set.wav"
+}

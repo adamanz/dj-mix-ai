@@ -1,0 +1,513 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=0F6KyA4g71g",
+  "dj_name": "Bonobo",
+  "set_name": "DJ Mix",
+  "num_tracks": 32,
+  "tracks": [
+    {
+      "track_number": 1,
+      "timestamp_seconds": 1,
+      "timestamp_str": "00:01",
+      "title": "Bonobo - Linked"
+    },
+    {
+      "track_number": 2,
+      "timestamp_seconds": 240,
+      "timestamp_str": "04:00",
+      "title": "2000 and One - Wan Poku Moro"
+    },
+    {
+      "track_number": 3,
+      "timestamp_seconds": 480,
+      "timestamp_str": "08:00",
+      "title": "Mark Knight - Second Story"
+    },
+    {
+      "track_number": 4,
+      "timestamp_seconds": 690,
+      "timestamp_str": "11:30",
+      "title": "Justin Martin - The Feels"
+    },
+    {
+      "track_number": 5,
+      "timestamp_seconds": 960,
+      "timestamp_str": "16:00",
+      "title": "Purple Disco Machine - Body Funk"
+    },
+    {
+      "track_number": 6,
+      "timestamp_seconds": 1200,
+      "timestamp_str": "20:00",
+      "title": "Frankey & Sandrino - Acamar"
+    },
+    {
+      "track_number": 7,
+      "timestamp_seconds": 1470,
+      "timestamp_str": "24:30",
+      "title": "Bonobo - Bambro Koyo Ganda"
+    },
+    {
+      "track_number": 8,
+      "timestamp_seconds": 1740,
+      "timestamp_str": "29:00",
+      "title": "Dusky - Stick By This"
+    },
+    {
+      "track_number": 9,
+      "timestamp_seconds": 1980,
+      "timestamp_str": "33:00",
+      "title": "Kiasmos - Looped"
+    },
+    {
+      "track_number": 10,
+      "timestamp_seconds": 2220,
+      "timestamp_str": "37:00",
+      "title": "Bonobo - Otomo"
+    },
+    {
+      "track_number": 11,
+      "timestamp_seconds": 2520,
+      "timestamp_str": "42:00",
+      "title": "Ben B\u00f6hmer - Breathing"
+    },
+    {
+      "track_number": 12,
+      "timestamp_seconds": 2790,
+      "timestamp_str": "46:30",
+      "title": "Lane 8 - Fingerprint"
+    },
+    {
+      "track_number": 13,
+      "timestamp_seconds": 3060,
+      "timestamp_str": "51:00",
+      "title": "Yotto - Hyperfall"
+    },
+    {
+      "track_number": 14,
+      "timestamp_seconds": 3330,
+      "timestamp_str": "55:30",
+      "title": "Bonobo - Sapphire"
+    },
+    {
+      "track_number": 15,
+      "timestamp_seconds": 3600,
+      "timestamp_str": "60:00",
+      "title": "Bonobo - Migration"
+    },
+    {
+      "track_number": 16,
+      "timestamp_seconds": 3870,
+      "timestamp_str": "64:30",
+      "title": "Jon Hopkins - Emerald Rush"
+    },
+    {
+      "track_number": 17,
+      "timestamp_seconds": 4140,
+      "timestamp_str": "69:00",
+      "title": "Bonobo - Kerala"
+    },
+    {
+      "track_number": 18,
+      "timestamp_seconds": 4410,
+      "timestamp_str": "73:30",
+      "title": "Bonobo - Cirrus"
+    },
+    {
+      "track_number": 19,
+      "timestamp_seconds": 4680,
+      "timestamp_str": "78:00",
+      "title": "Bonobo - Jets"
+    },
+    {
+      "track_number": 20,
+      "timestamp_seconds": 4950,
+      "timestamp_str": "82:30",
+      "title": "Bonobo - Ten Tigers"
+    },
+    {
+      "track_number": 21,
+      "timestamp_seconds": 5220,
+      "timestamp_str": "87:00",
+      "title": "Kiasmos - Burnt"
+    },
+    {
+      "track_number": 22,
+      "timestamp_seconds": 5490,
+      "timestamp_str": "91:30",
+      "title": "Bonobo - Eyesdown"
+    },
+    {
+      "track_number": 23,
+      "timestamp_seconds": 5760,
+      "timestamp_str": "96:00",
+      "title": "Bonobo - Break Apart"
+    },
+    {
+      "track_number": 24,
+      "timestamp_seconds": 6030,
+      "timestamp_str": "100:30",
+      "title": "Bonobo - The Keeper"
+    },
+    {
+      "track_number": 25,
+      "timestamp_seconds": 6300,
+      "timestamp_str": "105:00",
+      "title": "Bonobo - First Fires"
+    },
+    {
+      "track_number": 26,
+      "timestamp_seconds": 6570,
+      "timestamp_str": "109:30",
+      "title": "Bonobo - Towers"
+    },
+    {
+      "track_number": 27,
+      "timestamp_seconds": 6840,
+      "timestamp_str": "114:00",
+      "title": "Bonobo - Figures"
+    },
+    {
+      "track_number": 28,
+      "timestamp_seconds": 7110,
+      "timestamp_str": "118:30",
+      "title": "Bonobo - Surface"
+    },
+    {
+      "track_number": 29,
+      "timestamp_seconds": 7380,
+      "timestamp_str": "123:00",
+      "title": "Bonobo - Nothing Owed"
+    },
+    {
+      "track_number": 30,
+      "timestamp_seconds": 7650,
+      "timestamp_str": "127:30",
+      "title": "Bonobo - Transits"
+    },
+    {
+      "track_number": 31,
+      "timestamp_seconds": 7920,
+      "timestamp_str": "132:00",
+      "title": "Bonobo - Polyghost"
+    },
+    {
+      "track_number": 32,
+      "timestamp_seconds": 8190,
+      "timestamp_str": "136:30",
+      "title": "Bonobo - Flicker"
+    }
+  ],
+  "transitions": [
+    {
+      "from_track": 1,
+      "to_track": 2,
+      "from_title": "Bonobo - Linked",
+      "to_title": "2000 and One - Wan Poku Moro",
+      "transition_start_seconds": 210,
+      "transition_end_seconds": 270,
+      "transition_midpoint": 240,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 2,
+      "to_track": 3,
+      "from_title": "2000 and One - Wan Poku Moro",
+      "to_title": "Mark Knight - Second Story",
+      "transition_start_seconds": 450,
+      "transition_end_seconds": 510,
+      "transition_midpoint": 480,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 3,
+      "to_track": 4,
+      "from_title": "Mark Knight - Second Story",
+      "to_title": "Justin Martin - The Feels",
+      "transition_start_seconds": 660,
+      "transition_end_seconds": 720,
+      "transition_midpoint": 690,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 4,
+      "to_track": 5,
+      "from_title": "Justin Martin - The Feels",
+      "to_title": "Purple Disco Machine - Body Funk",
+      "transition_start_seconds": 930,
+      "transition_end_seconds": 990,
+      "transition_midpoint": 960,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 5,
+      "to_track": 6,
+      "from_title": "Purple Disco Machine - Body Funk",
+      "to_title": "Frankey & Sandrino - Acamar",
+      "transition_start_seconds": 1170,
+      "transition_end_seconds": 1230,
+      "transition_midpoint": 1200,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 6,
+      "to_track": 7,
+      "from_title": "Frankey & Sandrino - Acamar",
+      "to_title": "Bonobo - Bambro Koyo Ganda",
+      "transition_start_seconds": 1440,
+      "transition_end_seconds": 1500,
+      "transition_midpoint": 1470,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 7,
+      "to_track": 8,
+      "from_title": "Bonobo - Bambro Koyo Ganda",
+      "to_title": "Dusky - Stick By This",
+      "transition_start_seconds": 1710,
+      "transition_end_seconds": 1770,
+      "transition_midpoint": 1740,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 8,
+      "to_track": 9,
+      "from_title": "Dusky - Stick By This",
+      "to_title": "Kiasmos - Looped",
+      "transition_start_seconds": 1950,
+      "transition_end_seconds": 2010,
+      "transition_midpoint": 1980,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 9,
+      "to_track": 10,
+      "from_title": "Kiasmos - Looped",
+      "to_title": "Bonobo - Otomo",
+      "transition_start_seconds": 2190,
+      "transition_end_seconds": 2250,
+      "transition_midpoint": 2220,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 10,
+      "to_track": 11,
+      "from_title": "Bonobo - Otomo",
+      "to_title": "Ben B\u00f6hmer - Breathing",
+      "transition_start_seconds": 2490,
+      "transition_end_seconds": 2550,
+      "transition_midpoint": 2520,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 11,
+      "to_track": 12,
+      "from_title": "Ben B\u00f6hmer - Breathing",
+      "to_title": "Lane 8 - Fingerprint",
+      "transition_start_seconds": 2760,
+      "transition_end_seconds": 2820,
+      "transition_midpoint": 2790,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 12,
+      "to_track": 13,
+      "from_title": "Lane 8 - Fingerprint",
+      "to_title": "Yotto - Hyperfall",
+      "transition_start_seconds": 3030,
+      "transition_end_seconds": 3090,
+      "transition_midpoint": 3060,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 13,
+      "to_track": 14,
+      "from_title": "Yotto - Hyperfall",
+      "to_title": "Bonobo - Sapphire",
+      "transition_start_seconds": 3300,
+      "transition_end_seconds": 3360,
+      "transition_midpoint": 3330,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 14,
+      "to_track": 15,
+      "from_title": "Bonobo - Sapphire",
+      "to_title": "Bonobo - Migration",
+      "transition_start_seconds": 3570,
+      "transition_end_seconds": 3630,
+      "transition_midpoint": 3600,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 15,
+      "to_track": 16,
+      "from_title": "Bonobo - Migration",
+      "to_title": "Jon Hopkins - Emerald Rush",
+      "transition_start_seconds": 3840,
+      "transition_end_seconds": 3900,
+      "transition_midpoint": 3870,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 16,
+      "to_track": 17,
+      "from_title": "Jon Hopkins - Emerald Rush",
+      "to_title": "Bonobo - Kerala",
+      "transition_start_seconds": 4110,
+      "transition_end_seconds": 4170,
+      "transition_midpoint": 4140,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 17,
+      "to_track": 18,
+      "from_title": "Bonobo - Kerala",
+      "to_title": "Bonobo - Cirrus",
+      "transition_start_seconds": 4380,
+      "transition_end_seconds": 4440,
+      "transition_midpoint": 4410,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 18,
+      "to_track": 19,
+      "from_title": "Bonobo - Cirrus",
+      "to_title": "Bonobo - Jets",
+      "transition_start_seconds": 4650,
+      "transition_end_seconds": 4710,
+      "transition_midpoint": 4680,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 19,
+      "to_track": 20,
+      "from_title": "Bonobo - Jets",
+      "to_title": "Bonobo - Ten Tigers",
+      "transition_start_seconds": 4920,
+      "transition_end_seconds": 4980,
+      "transition_midpoint": 4950,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 20,
+      "to_track": 21,
+      "from_title": "Bonobo - Ten Tigers",
+      "to_title": "Kiasmos - Burnt",
+      "transition_start_seconds": 5190,
+      "transition_end_seconds": 5250,
+      "transition_midpoint": 5220,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 21,
+      "to_track": 22,
+      "from_title": "Kiasmos - Burnt",
+      "to_title": "Bonobo - Eyesdown",
+      "transition_start_seconds": 5460,
+      "transition_end_seconds": 5520,
+      "transition_midpoint": 5490,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 22,
+      "to_track": 23,
+      "from_title": "Bonobo - Eyesdown",
+      "to_title": "Bonobo - Break Apart",
+      "transition_start_seconds": 5730,
+      "transition_end_seconds": 5790,
+      "transition_midpoint": 5760,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 23,
+      "to_track": 24,
+      "from_title": "Bonobo - Break Apart",
+      "to_title": "Bonobo - The Keeper",
+      "transition_start_seconds": 6000,
+      "transition_end_seconds": 6060,
+      "transition_midpoint": 6030,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 24,
+      "to_track": 25,
+      "from_title": "Bonobo - The Keeper",
+      "to_title": "Bonobo - First Fires",
+      "transition_start_seconds": 6270,
+      "transition_end_seconds": 6330,
+      "transition_midpoint": 6300,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 25,
+      "to_track": 26,
+      "from_title": "Bonobo - First Fires",
+      "to_title": "Bonobo - Towers",
+      "transition_start_seconds": 6540,
+      "transition_end_seconds": 6600,
+      "transition_midpoint": 6570,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 26,
+      "to_track": 27,
+      "from_title": "Bonobo - Towers",
+      "to_title": "Bonobo - Figures",
+      "transition_start_seconds": 6810,
+      "transition_end_seconds": 6870,
+      "transition_midpoint": 6840,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 27,
+      "to_track": 28,
+      "from_title": "Bonobo - Figures",
+      "to_title": "Bonobo - Surface",
+      "transition_start_seconds": 7080,
+      "transition_end_seconds": 7140,
+      "transition_midpoint": 7110,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 28,
+      "to_track": 29,
+      "from_title": "Bonobo - Surface",
+      "to_title": "Bonobo - Nothing Owed",
+      "transition_start_seconds": 7350,
+      "transition_end_seconds": 7410,
+      "transition_midpoint": 7380,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 29,
+      "to_track": 30,
+      "from_title": "Bonobo - Nothing Owed",
+      "to_title": "Bonobo - Transits",
+      "transition_start_seconds": 7620,
+      "transition_end_seconds": 7680,
+      "transition_midpoint": 7650,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 30,
+      "to_track": 31,
+      "from_title": "Bonobo - Transits",
+      "to_title": "Bonobo - Polyghost",
+      "transition_start_seconds": 7890,
+      "transition_end_seconds": 7950,
+      "transition_midpoint": 7920,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 31,
+      "to_track": 32,
+      "from_title": "Bonobo - Polyghost",
+      "to_title": "Bonobo - Flicker",
+      "transition_start_seconds": 8160,
+      "transition_end_seconds": 8220,
+      "transition_midpoint": 8190,
+      "transition_duration": 60
+    }
+  ],
+  "num_transitions": 31
+}

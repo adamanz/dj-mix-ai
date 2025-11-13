@@ -1,0 +1,42 @@
+{
+  "mix_name": "long_fade_001",
+  "num_tracks": 3,
+  "tracks": [
+    {
+      "name": "Snowmine - Curfews",
+      "index": 71
+    },
+    {
+      "name": "St Vitus - Word Gets Around",
+      "index": 73
+    },
+    {
+      "name": "Traffic Experiment - Once More (With Feeling)",
+      "index": 85
+    }
+  ],
+  "transitions": [
+    {
+      "track1_duration": 3.4017233560090703,
+      "transition_start": 3.4017233560090703,
+      "transition_end": 6.3645124716553285,
+      "track2_start": 6.3645124716553285,
+      "total_duration": 6.3645124716553285,
+      "tempo1": 191.40625,
+      "tempo2": 83.35433467741936,
+      "stretch_factor": 2.2962962962962963,
+      "crossfade_beats": 32
+    },
+    {
+      "track1_duration": 3.1822448979591837,
+      "transition_start": 3.1822448979591837,
+      "transition_end": 6.3645124716553285,
+      "track2_start": 6.3645124716553285,
+      "total_duration": 7.7745804988662135,
+      "tempo1": 191.40625,
+      "tempo2": 129.19921875,
+      "stretch_factor": 1.4814814814814814,
+      "crossfade_beats": 32
+    }
+  ]
+}

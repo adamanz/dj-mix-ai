@@ -1,0 +1,721 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=qmrn2QJwwaI",
+  "dj_name": "Verdikt",
+  "set_name": "Progressive House Mix",
+  "num_tracks": 45,
+  "tracks": [
+    {
+      "track_number": 1,
+      "timestamp_seconds": 1,
+      "timestamp_str": "00:01",
+      "title": "SYML - The Bird (Sasha Remix) NETTWERK"
+    },
+    {
+      "track_number": 2,
+      "timestamp_seconds": 480,
+      "timestamp_str": "08:00",
+      "title": "Craig Pruess & Ananda - Devi Prayer (Juan Sapia Private Bootleg)"
+    },
+    {
+      "track_number": 3,
+      "timestamp_seconds": 900,
+      "timestamp_str": "15:00",
+      "title": "Kamilo Sanclemente - Odin HOPE"
+    },
+    {
+      "track_number": 4,
+      "timestamp_seconds": 1380,
+      "timestamp_str": "23:00",
+      "title": "JakoJako & Mauro Ferreira - Ashes in The Rain LUMP"
+    },
+    {
+      "track_number": 5,
+      "timestamp_seconds": 1800,
+      "timestamp_str": "30:00",
+      "title": "Ramses - Inside (Marc DePulse Remix) STIL VOR TALENT"
+    },
+    {
+      "track_number": 6,
+      "timestamp_seconds": 2220,
+      "timestamp_str": "37:00",
+      "title": "Matt Lange - Vast ANJUNADEEP"
+    },
+    {
+      "track_number": 7,
+      "timestamp_seconds": 2640,
+      "timestamp_str": "44:00",
+      "title": "Frankey & Sandrino - Pantha INNERVISIONS"
+    },
+    {
+      "track_number": 8,
+      "timestamp_seconds": 3000,
+      "timestamp_str": "50:00",
+      "title": "Ver\u00f0ikt - Timeless MOTEK"
+    },
+    {
+      "track_number": 9,
+      "timestamp_seconds": 3360,
+      "timestamp_str": "56:00",
+      "title": "Rodrigo Deem - Hera (10 Years Mix)"
+    },
+    {
+      "track_number": 10,
+      "timestamp_seconds": 3780,
+      "timestamp_str": "1:03:00",
+      "title": "Mees Salom\u00e9 - Light Into Dark (Einmusik Remix) MEES SALOM\u00c9"
+    },
+    {
+      "track_number": 11,
+      "timestamp_seconds": 4200,
+      "timestamp_str": "1:10:00",
+      "title": "Jan Blomqvist - Maybe Not (Anyma Remix) ARMADA"
+    },
+    {
+      "track_number": 12,
+      "timestamp_seconds": 4560,
+      "timestamp_str": "1:16:00",
+      "title": "Andr\u00e9 Sobota - Limen REBELLION DER TRAUMER"
+    },
+    {
+      "track_number": 13,
+      "timestamp_seconds": 4980,
+      "timestamp_str": "1:23:00",
+      "title": "Goom Gum - Kaya (Khen Remix) MOTEK"
+    },
+    {
+      "track_number": 14,
+      "timestamp_seconds": 5460,
+      "timestamp_str": "1:31:00",
+      "title": "Budakid & Innellea - Prometeo STILL VOR TALENT"
+    },
+    {
+      "track_number": 15,
+      "timestamp_seconds": 5880,
+      "timestamp_str": "1:38:00",
+      "title": "Nico Stojan - Sorrow feat. APARDE (Nick Devon Remix) MULTINOTES"
+    },
+    {
+      "track_number": 16,
+      "timestamp_seconds": 6300,
+      "timestamp_str": "1:45:00",
+      "title": "Lost Desert - Saha (Adrian Roman Remix) MOTEK"
+    },
+    {
+      "track_number": 17,
+      "timestamp_seconds": 6660,
+      "timestamp_str": "1:51:00",
+      "title": "Lost Desert & JakoJako - La Lumiere ENCANTA"
+    },
+    {
+      "track_number": 18,
+      "timestamp_seconds": 7140,
+      "timestamp_str": "1:59:00",
+      "title": "Cassian - Stronger R\u00dcF\u00dcS"
+    },
+    {
+      "track_number": 19,
+      "timestamp_seconds": 7560,
+      "timestamp_str": "2:06:00",
+      "title": "Roy Rosenfeld & Ver\u00f0ikt - Eris ASTRAL BAZAAR"
+    },
+    {
+      "track_number": 20,
+      "timestamp_seconds": 8040,
+      "timestamp_str": "2:14:00",
+      "title": "Adam Port & Matteo Milleri - The Wizard KEINEMUSIK"
+    },
+    {
+      "track_number": 21,
+      "timestamp_seconds": 8400,
+      "timestamp_str": "2:20:00",
+      "title": "Nick Devon - My Everything STEYOYOKE"
+    },
+    {
+      "track_number": 22,
+      "timestamp_seconds": 8820,
+      "timestamp_str": "2:27:00",
+      "title": "Nick Devon - Holy feat. APARDE STEYOYOKE"
+    },
+    {
+      "track_number": 23,
+      "timestamp_seconds": 9180,
+      "timestamp_str": "2:33:00",
+      "title": "Sascha Braemer - Whisper SUPDUB"
+    },
+    {
+      "track_number": 24,
+      "timestamp_seconds": 9480,
+      "timestamp_str": "2:38:00",
+      "title": "Parallels - Falling feat. Salma Halabi (Froidz Remix) HEIMLICH MUSIK"
+    },
+    {
+      "track_number": 25,
+      "timestamp_seconds": 9900,
+      "timestamp_str": "2:45:00",
+      "title": "Stylo - Gypsy CROSSTOWN REBELS"
+    },
+    {
+      "track_number": 26,
+      "timestamp_seconds": 10320,
+      "timestamp_str": "2:52:00",
+      "title": "WhoMadeWho - Silence & Secrets (Innellea Remix)"
+    },
+    {
+      "track_number": 27,
+      "timestamp_seconds": 10680,
+      "timestamp_str": "2:58:00",
+      "title": "Olivier Giacomotto - Soy SAPIENS"
+    },
+    {
+      "track_number": 28,
+      "timestamp_seconds": 11100,
+      "timestamp_str": "3:05:00",
+      "title": "Atish - Mirare MANJUMASI"
+    },
+    {
+      "track_number": 29,
+      "timestamp_seconds": 11400,
+      "timestamp_str": "3:10:00",
+      "title": "Yotto & Ver\u00f0ikt - Out Of Reach ANJUNADEEP"
+    },
+    {
+      "track_number": 30,
+      "timestamp_seconds": 11820,
+      "timestamp_str": "3:17:00",
+      "title": "Ziger - Taro Cosmic Awakenings RITTER BUTZKE STUDIO"
+    },
+    {
+      "track_number": 31,
+      "timestamp_seconds": 12240,
+      "timestamp_str": "3:24:00",
+      "title": "Sebastien Leger - Chameleon ARMADA"
+    },
+    {
+      "track_number": 32,
+      "timestamp_seconds": 12600,
+      "timestamp_str": "3:30:00",
+      "title": "Nihil Young - Alhanna MOTEK"
+    },
+    {
+      "track_number": 33,
+      "timestamp_seconds": 12960,
+      "timestamp_str": "3:36:00",
+      "title": "Fran\u00e7ois Dubois - Aera SHANTI MOSCOW"
+    },
+    {
+      "track_number": 34,
+      "timestamp_seconds": 13380,
+      "timestamp_str": "3:43:00",
+      "title": "Marco Resmann & Dahu - Maya EEYORE"
+    },
+    {
+      "track_number": 35,
+      "timestamp_seconds": 13800,
+      "timestamp_str": "3:50:00",
+      "title": "Monkey Safari - Boulogne Billancourt (Bunte Bummler Remix) HOMMAGE"
+    },
+    {
+      "track_number": 36,
+      "timestamp_seconds": 14220,
+      "timestamp_str": "3:57:00",
+      "title": "Tim Engelhardt - Goodbye STIL VOR TALENT"
+    },
+    {
+      "track_number": 37,
+      "timestamp_seconds": 14580,
+      "timestamp_str": "4:03:00",
+      "title": "Hollt - Takar DIYNAMIC"
+    },
+    {
+      "track_number": 38,
+      "timestamp_seconds": 15000,
+      "timestamp_str": "4:10:00",
+      "title": "Artbat - Tabu DIYNAMIC"
+    },
+    {
+      "track_number": 39,
+      "timestamp_seconds": 15360,
+      "timestamp_str": "4:16:00",
+      "title": "Sebastien Leger - Libellule ARMADA"
+    },
+    {
+      "track_number": 40,
+      "timestamp_seconds": 15780,
+      "timestamp_str": "4:23:00",
+      "title": "JakoJako - Phoenix LUMP"
+    },
+    {
+      "track_number": 41,
+      "timestamp_seconds": 16080,
+      "timestamp_str": "4:28:00",
+      "title": "Einmusik - Still (JakoJako Remix) KATERMUKKE"
+    },
+    {
+      "track_number": 42,
+      "timestamp_seconds": 16560,
+      "timestamp_str": "4:36:00",
+      "title": "Chicola - Obsession RADIKON"
+    },
+    {
+      "track_number": 43,
+      "timestamp_seconds": 16980,
+      "timestamp_str": "4:43:00",
+      "title": "Massano - Don't Wake Me Up AFTERLIFE"
+    },
+    {
+      "track_number": 44,
+      "timestamp_seconds": 17280,
+      "timestamp_str": "4:48:00",
+      "title": "Ver\u00f0ikt - Essence MOTEK"
+    },
+    {
+      "track_number": 45,
+      "timestamp_seconds": 17580,
+      "timestamp_str": "4:53:00",
+      "title": "Khen - Beit Lid KHEN MUSIC"
+    }
+  ],
+  "transitions": [
+    {
+      "from_track": 1,
+      "to_track": 2,
+      "from_title": "SYML - The Bird (Sasha Remix) NETTWERK",
+      "to_title": "Craig Pruess & Ananda - Devi Prayer (Juan Sapia Private Bootleg)",
+      "transition_start_seconds": 450,
+      "transition_end_seconds": 510,
+      "transition_midpoint": 480,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 2,
+      "to_track": 3,
+      "from_title": "Craig Pruess & Ananda - Devi Prayer (Juan Sapia Private Bootleg)",
+      "to_title": "Kamilo Sanclemente - Odin HOPE",
+      "transition_start_seconds": 870,
+      "transition_end_seconds": 930,
+      "transition_midpoint": 900,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 3,
+      "to_track": 4,
+      "from_title": "Kamilo Sanclemente - Odin HOPE",
+      "to_title": "JakoJako & Mauro Ferreira - Ashes in The Rain LUMP",
+      "transition_start_seconds": 1350,
+      "transition_end_seconds": 1410,
+      "transition_midpoint": 1380,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 4,
+      "to_track": 5,
+      "from_title": "JakoJako & Mauro Ferreira - Ashes in The Rain LUMP",
+      "to_title": "Ramses - Inside (Marc DePulse Remix) STIL VOR TALENT",
+      "transition_start_seconds": 1770,
+      "transition_end_seconds": 1830,
+      "transition_midpoint": 1800,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 5,
+      "to_track": 6,
+      "from_title": "Ramses - Inside (Marc DePulse Remix) STIL VOR TALENT",
+      "to_title": "Matt Lange - Vast ANJUNADEEP",
+      "transition_start_seconds": 2190,
+      "transition_end_seconds": 2250,
+      "transition_midpoint": 2220,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 6,
+      "to_track": 7,
+      "from_title": "Matt Lange - Vast ANJUNADEEP",
+      "to_title": "Frankey & Sandrino - Pantha INNERVISIONS",
+      "transition_start_seconds": 2610,
+      "transition_end_seconds": 2670,
+      "transition_midpoint": 2640,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 7,
+      "to_track": 8,
+      "from_title": "Frankey & Sandrino - Pantha INNERVISIONS",
+      "to_title": "Ver\u00f0ikt - Timeless MOTEK",
+      "transition_start_seconds": 2970,
+      "transition_end_seconds": 3030,
+      "transition_midpoint": 3000,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 8,
+      "to_track": 9,
+      "from_title": "Ver\u00f0ikt - Timeless MOTEK",
+      "to_title": "Rodrigo Deem - Hera (10 Years Mix)",
+      "transition_start_seconds": 3330,
+      "transition_end_seconds": 3390,
+      "transition_midpoint": 3360,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 9,
+      "to_track": 10,
+      "from_title": "Rodrigo Deem - Hera (10 Years Mix)",
+      "to_title": "Mees Salom\u00e9 - Light Into Dark (Einmusik Remix) MEES SALOM\u00c9",
+      "transition_start_seconds": 3750,
+      "transition_end_seconds": 3810,
+      "transition_midpoint": 3780,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 10,
+      "to_track": 11,
+      "from_title": "Mees Salom\u00e9 - Light Into Dark (Einmusik Remix) MEES SALOM\u00c9",
+      "to_title": "Jan Blomqvist - Maybe Not (Anyma Remix) ARMADA",
+      "transition_start_seconds": 4170,
+      "transition_end_seconds": 4230,
+      "transition_midpoint": 4200,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 11,
+      "to_track": 12,
+      "from_title": "Jan Blomqvist - Maybe Not (Anyma Remix) ARMADA",
+      "to_title": "Andr\u00e9 Sobota - Limen REBELLION DER TRAUMER",
+      "transition_start_seconds": 4530,
+      "transition_end_seconds": 4590,
+      "transition_midpoint": 4560,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 12,
+      "to_track": 13,
+      "from_title": "Andr\u00e9 Sobota - Limen REBELLION DER TRAUMER",
+      "to_title": "Goom Gum - Kaya (Khen Remix) MOTEK",
+      "transition_start_seconds": 4950,
+      "transition_end_seconds": 5010,
+      "transition_midpoint": 4980,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 13,
+      "to_track": 14,
+      "from_title": "Goom Gum - Kaya (Khen Remix) MOTEK",
+      "to_title": "Budakid & Innellea - Prometeo STILL VOR TALENT",
+      "transition_start_seconds": 5430,
+      "transition_end_seconds": 5490,
+      "transition_midpoint": 5460,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 14,
+      "to_track": 15,
+      "from_title": "Budakid & Innellea - Prometeo STILL VOR TALENT",
+      "to_title": "Nico Stojan - Sorrow feat. APARDE (Nick Devon Remix) MULTINOTES",
+      "transition_start_seconds": 5850,
+      "transition_end_seconds": 5910,
+      "transition_midpoint": 5880,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 15,
+      "to_track": 16,
+      "from_title": "Nico Stojan - Sorrow feat. APARDE (Nick Devon Remix) MULTINOTES",
+      "to_title": "Lost Desert - Saha (Adrian Roman Remix) MOTEK",
+      "transition_start_seconds": 6270,
+      "transition_end_seconds": 6330,
+      "transition_midpoint": 6300,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 16,
+      "to_track": 17,
+      "from_title": "Lost Desert - Saha (Adrian Roman Remix) MOTEK",
+      "to_title": "Lost Desert & JakoJako - La Lumiere ENCANTA",
+      "transition_start_seconds": 6630,
+      "transition_end_seconds": 6690,
+      "transition_midpoint": 6660,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 17,
+      "to_track": 18,
+      "from_title": "Lost Desert & JakoJako - La Lumiere ENCANTA",
+      "to_title": "Cassian - Stronger R\u00dcF\u00dcS",
+      "transition_start_seconds": 7110,
+      "transition_end_seconds": 7170,
+      "transition_midpoint": 7140,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 18,
+      "to_track": 19,
+      "from_title": "Cassian - Stronger R\u00dcF\u00dcS",
+      "to_title": "Roy Rosenfeld & Ver\u00f0ikt - Eris ASTRAL BAZAAR",
+      "transition_start_seconds": 7530,
+      "transition_end_seconds": 7590,
+      "transition_midpoint": 7560,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 19,
+      "to_track": 20,
+      "from_title": "Roy Rosenfeld & Ver\u00f0ikt - Eris ASTRAL BAZAAR",
+      "to_title": "Adam Port & Matteo Milleri - The Wizard KEINEMUSIK",
+      "transition_start_seconds": 8010,
+      "transition_end_seconds": 8070,
+      "transition_midpoint": 8040,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 20,
+      "to_track": 21,
+      "from_title": "Adam Port & Matteo Milleri - The Wizard KEINEMUSIK",
+      "to_title": "Nick Devon - My Everything STEYOYOKE",
+      "transition_start_seconds": 8370,
+      "transition_end_seconds": 8430,
+      "transition_midpoint": 8400,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 21,
+      "to_track": 22,
+      "from_title": "Nick Devon - My Everything STEYOYOKE",
+      "to_title": "Nick Devon - Holy feat. APARDE STEYOYOKE",
+      "transition_start_seconds": 8790,
+      "transition_end_seconds": 8850,
+      "transition_midpoint": 8820,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 22,
+      "to_track": 23,
+      "from_title": "Nick Devon - Holy feat. APARDE STEYOYOKE",
+      "to_title": "Sascha Braemer - Whisper SUPDUB",
+      "transition_start_seconds": 9150,
+      "transition_end_seconds": 9210,
+      "transition_midpoint": 9180,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 23,
+      "to_track": 24,
+      "from_title": "Sascha Braemer - Whisper SUPDUB",
+      "to_title": "Parallels - Falling feat. Salma Halabi (Froidz Remix) HEIMLICH MUSIK",
+      "transition_start_seconds": 9450,
+      "transition_end_seconds": 9510,
+      "transition_midpoint": 9480,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 24,
+      "to_track": 25,
+      "from_title": "Parallels - Falling feat. Salma Halabi (Froidz Remix) HEIMLICH MUSIK",
+      "to_title": "Stylo - Gypsy CROSSTOWN REBELS",
+      "transition_start_seconds": 9870,
+      "transition_end_seconds": 9930,
+      "transition_midpoint": 9900,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 25,
+      "to_track": 26,
+      "from_title": "Stylo - Gypsy CROSSTOWN REBELS",
+      "to_title": "WhoMadeWho - Silence & Secrets (Innellea Remix)",
+      "transition_start_seconds": 10290,
+      "transition_end_seconds": 10350,
+      "transition_midpoint": 10320,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 26,
+      "to_track": 27,
+      "from_title": "WhoMadeWho - Silence & Secrets (Innellea Remix)",
+      "to_title": "Olivier Giacomotto - Soy SAPIENS",
+      "transition_start_seconds": 10650,
+      "transition_end_seconds": 10710,
+      "transition_midpoint": 10680,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 27,
+      "to_track": 28,
+      "from_title": "Olivier Giacomotto - Soy SAPIENS",
+      "to_title": "Atish - Mirare MANJUMASI",
+      "transition_start_seconds": 11070,
+      "transition_end_seconds": 11130,
+      "transition_midpoint": 11100,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 28,
+      "to_track": 29,
+      "from_title": "Atish - Mirare MANJUMASI",
+      "to_title": "Yotto & Ver\u00f0ikt - Out Of Reach ANJUNADEEP",
+      "transition_start_seconds": 11370,
+      "transition_end_seconds": 11430,
+      "transition_midpoint": 11400,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 29,
+      "to_track": 30,
+      "from_title": "Yotto & Ver\u00f0ikt - Out Of Reach ANJUNADEEP",
+      "to_title": "Ziger - Taro Cosmic Awakenings RITTER BUTZKE STUDIO",
+      "transition_start_seconds": 11790,
+      "transition_end_seconds": 11850,
+      "transition_midpoint": 11820,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 30,
+      "to_track": 31,
+      "from_title": "Ziger - Taro Cosmic Awakenings RITTER BUTZKE STUDIO",
+      "to_title": "Sebastien Leger - Chameleon ARMADA",
+      "transition_start_seconds": 12210,
+      "transition_end_seconds": 12270,
+      "transition_midpoint": 12240,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 31,
+      "to_track": 32,
+      "from_title": "Sebastien Leger - Chameleon ARMADA",
+      "to_title": "Nihil Young - Alhanna MOTEK",
+      "transition_start_seconds": 12570,
+      "transition_end_seconds": 12630,
+      "transition_midpoint": 12600,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 32,
+      "to_track": 33,
+      "from_title": "Nihil Young - Alhanna MOTEK",
+      "to_title": "Fran\u00e7ois Dubois - Aera SHANTI MOSCOW",
+      "transition_start_seconds": 12930,
+      "transition_end_seconds": 12990,
+      "transition_midpoint": 12960,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 33,
+      "to_track": 34,
+      "from_title": "Fran\u00e7ois Dubois - Aera SHANTI MOSCOW",
+      "to_title": "Marco Resmann & Dahu - Maya EEYORE",
+      "transition_start_seconds": 13350,
+      "transition_end_seconds": 13410,
+      "transition_midpoint": 13380,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 34,
+      "to_track": 35,
+      "from_title": "Marco Resmann & Dahu - Maya EEYORE",
+      "to_title": "Monkey Safari - Boulogne Billancourt (Bunte Bummler Remix) HOMMAGE",
+      "transition_start_seconds": 13770,
+      "transition_end_seconds": 13830,
+      "transition_midpoint": 13800,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 35,
+      "to_track": 36,
+      "from_title": "Monkey Safari - Boulogne Billancourt (Bunte Bummler Remix) HOMMAGE",
+      "to_title": "Tim Engelhardt - Goodbye STIL VOR TALENT",
+      "transition_start_seconds": 14190,
+      "transition_end_seconds": 14250,
+      "transition_midpoint": 14220,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 36,
+      "to_track": 37,
+      "from_title": "Tim Engelhardt - Goodbye STIL VOR TALENT",
+      "to_title": "Hollt - Takar DIYNAMIC",
+      "transition_start_seconds": 14550,
+      "transition_end_seconds": 14610,
+      "transition_midpoint": 14580,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 37,
+      "to_track": 38,
+      "from_title": "Hollt - Takar DIYNAMIC",
+      "to_title": "Artbat - Tabu DIYNAMIC",
+      "transition_start_seconds": 14970,
+      "transition_end_seconds": 15030,
+      "transition_midpoint": 15000,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 38,
+      "to_track": 39,
+      "from_title": "Artbat - Tabu DIYNAMIC",
+      "to_title": "Sebastien Leger - Libellule ARMADA",
+      "transition_start_seconds": 15330,
+      "transition_end_seconds": 15390,
+      "transition_midpoint": 15360,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 39,
+      "to_track": 40,
+      "from_title": "Sebastien Leger - Libellule ARMADA",
+      "to_title": "JakoJako - Phoenix LUMP",
+      "transition_start_seconds": 15750,
+      "transition_end_seconds": 15810,
+      "transition_midpoint": 15780,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 40,
+      "to_track": 41,
+      "from_title": "JakoJako - Phoenix LUMP",
+      "to_title": "Einmusik - Still (JakoJako Remix) KATERMUKKE",
+      "transition_start_seconds": 16050,
+      "transition_end_seconds": 16110,
+      "transition_midpoint": 16080,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 41,
+      "to_track": 42,
+      "from_title": "Einmusik - Still (JakoJako Remix) KATERMUKKE",
+      "to_title": "Chicola - Obsession RADIKON",
+      "transition_start_seconds": 16530,
+      "transition_end_seconds": 16590,
+      "transition_midpoint": 16560,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 42,
+      "to_track": 43,
+      "from_title": "Chicola - Obsession RADIKON",
+      "to_title": "Massano - Don't Wake Me Up AFTERLIFE",
+      "transition_start_seconds": 16950,
+      "transition_end_seconds": 17010,
+      "transition_midpoint": 16980,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 43,
+      "to_track": 44,
+      "from_title": "Massano - Don't Wake Me Up AFTERLIFE",
+      "to_title": "Ver\u00f0ikt - Essence MOTEK",
+      "transition_start_seconds": 17250,
+      "transition_end_seconds": 17310,
+      "transition_midpoint": 17280,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 44,
+      "to_track": 45,
+      "from_title": "Ver\u00f0ikt - Essence MOTEK",
+      "to_title": "Khen - Beit Lid KHEN MUSIC",
+      "transition_start_seconds": 17550,
+      "transition_end_seconds": 17610,
+      "transition_midpoint": 17580,
+      "transition_duration": 60
+    }
+  ],
+  "num_transitions": 44
+}

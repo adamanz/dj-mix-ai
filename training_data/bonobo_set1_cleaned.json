@@ -1,0 +1,209 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=VM2dxRnhq7g",
+  "dj_name": "Bonobo",
+  "set_name": "Live Set",
+  "num_tracks": 13,
+  "tracks": [
+    {
+      "track_number": 1,
+      "timestamp_seconds": 1,
+      "timestamp_str": "00:01",
+      "title": "Polyghost (full extended version)"
+    },
+    {
+      "track_number": 2,
+      "timestamp_seconds": 60,
+      "timestamp_str": "01:00",
+      "title": "Flicker (Fabric dub)"
+    },
+    {
+      "track_number": 3,
+      "timestamp_seconds": 468,
+      "timestamp_str": "07:48",
+      "title": "Linked (Strings version)"
+    },
+    {
+      "track_number": 4,
+      "timestamp_seconds": 796,
+      "timestamp_str": "13:16",
+      "title": "Ten Tigers"
+    },
+    {
+      "track_number": 5,
+      "timestamp_seconds": 1170,
+      "timestamp_str": "19:30",
+      "title": "Animals"
+    },
+    {
+      "track_number": 6,
+      "timestamp_seconds": 1425,
+      "timestamp_str": "23:45",
+      "title": "Otomo"
+    },
+    {
+      "track_number": 7,
+      "timestamp_seconds": 1754,
+      "timestamp_str": "29:14",
+      "title": "Eyesdown (Machinedrum Remix)"
+    },
+    {
+      "track_number": 8,
+      "timestamp_seconds": 2080,
+      "timestamp_str": "34:40",
+      "title": "Recurring"
+    },
+    {
+      "track_number": 9,
+      "timestamp_seconds": 2400,
+      "timestamp_str": "40:00",
+      "title": "All in Forms"
+    },
+    {
+      "track_number": 10,
+      "timestamp_seconds": 2689,
+      "timestamp_str": "44:49",
+      "title": "Jets"
+    },
+    {
+      "track_number": 11,
+      "timestamp_seconds": 3000,
+      "timestamp_str": "50:00",
+      "title": "Ketto (Dub)"
+    },
+    {
+      "track_number": 12,
+      "timestamp_seconds": 3383,
+      "timestamp_str": "56:23",
+      "title": "Pick Up"
+    },
+    {
+      "track_number": 13,
+      "timestamp_seconds": 3660,
+      "timestamp_str": "61:00",
+      "title": "Sapphire"
+    }
+  ],
+  "transitions": [
+    {
+      "from_track": 1,
+      "to_track": 2,
+      "from_title": "Polyghost (full extended version)",
+      "to_title": "Flicker (Fabric dub)",
+      "transition_start_seconds": 30,
+      "transition_end_seconds": 90,
+      "transition_midpoint": 60,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 2,
+      "to_track": 3,
+      "from_title": "Flicker (Fabric dub)",
+      "to_title": "Linked (Strings version)",
+      "transition_start_seconds": 438,
+      "transition_end_seconds": 498,
+      "transition_midpoint": 468,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 3,
+      "to_track": 4,
+      "from_title": "Linked (Strings version)",
+      "to_title": "Ten Tigers",
+      "transition_start_seconds": 766,
+      "transition_end_seconds": 826,
+      "transition_midpoint": 796,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 4,
+      "to_track": 5,
+      "from_title": "Ten Tigers",
+      "to_title": "Animals",
+      "transition_start_seconds": 1140,
+      "transition_end_seconds": 1200,
+      "transition_midpoint": 1170,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 5,
+      "to_track": 6,
+      "from_title": "Animals",
+      "to_title": "Otomo",
+      "transition_start_seconds": 1395,
+      "transition_end_seconds": 1455,
+      "transition_midpoint": 1425,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 6,
+      "to_track": 7,
+      "from_title": "Otomo",
+      "to_title": "Eyesdown (Machinedrum Remix)",
+      "transition_start_seconds": 1724,
+      "transition_end_seconds": 1784,
+      "transition_midpoint": 1754,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 7,
+      "to_track": 8,
+      "from_title": "Eyesdown (Machinedrum Remix)",
+      "to_title": "Recurring",
+      "transition_start_seconds": 2050,
+      "transition_end_seconds": 2110,
+      "transition_midpoint": 2080,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 8,
+      "to_track": 9,
+      "from_title": "Recurring",
+      "to_title": "All in Forms",
+      "transition_start_seconds": 2370,
+      "transition_end_seconds": 2430,
+      "transition_midpoint": 2400,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 9,
+      "to_track": 10,
+      "from_title": "All in Forms",
+      "to_title": "Jets",
+      "transition_start_seconds": 2659,
+      "transition_end_seconds": 2719,
+      "transition_midpoint": 2689,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 10,
+      "to_track": 11,
+      "from_title": "Jets",
+      "to_title": "Ketto (Dub)",
+      "transition_start_seconds": 2970,
+      "transition_end_seconds": 3030,
+      "transition_midpoint": 3000,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 11,
+      "to_track": 12,
+      "from_title": "Ketto (Dub)",
+      "to_title": "Pick Up",
+      "transition_start_seconds": 3353,
+      "transition_end_seconds": 3413,
+      "transition_midpoint": 3383,
+      "transition_duration": 60
+    },
+    {
+      "from_track": 12,
+      "to_track": 13,
+      "from_title": "Pick Up",
+      "to_title": "Sapphire",
+      "transition_start_seconds": 3630,
+      "transition_end_seconds": 3690,
+      "transition_midpoint": 3660,
+      "transition_duration": 60
+    }
+  ],
+  "num_transitions": 12
+}

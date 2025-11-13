@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.webm
+training_audio/
+dj_set_analysis/
+
+# Data
+training_data/*.wav
+segments/
+*.pkl
+
+# Modal
+.modal/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

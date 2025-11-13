@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# Audio download
+yt-dlp>=2023.12.30
+
+# Cloud training
+modal>=0.57.0
+
+# Data processing
+pandas>=2.0.0
+
+# Future: Fine-tuning (uncomment when needed)
+# torch>=2.1.0
+# transformers>=4.35.0
+# datasets>=2.15.0
+# accelerate>=0.25.0
+# peft>=0.7.0
